@@ -1,0 +1,17 @@
+{
+  "tickers": ["AAPL", "MSFT", "NVDA", "TSLA"],
+  "ticker_labels": {
+    "AAPL": "Apple",
+    "MSFT": "Microsoft",
+    "NVDA": "NVIDIA",
+    "TSLA": "Tesla"
+  },
+  "from": "",
+  "to": [],
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "starttls": true,
+  "send_empty": false,
+  "first_run_lookback_hours": 12,
+  "max_items_per_ticker": 15
+}

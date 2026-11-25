@@ -1,0 +1,10 @@
+# secrets
+.env
+
+# runtime state
+state.json
+cron.log
+
+# python
+__pycache__/
+*.pyc
